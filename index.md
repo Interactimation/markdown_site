@@ -1,6 +1,6 @@
 ---
 layout: null
 ---
-# Hello World
+# Hello World!
 
 This is some text.
