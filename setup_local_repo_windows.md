@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /setup_local_repo_windows.html
 ---
 
 # Local Git Repository → GitHub → GitHub Pages Static Site (Windows)
