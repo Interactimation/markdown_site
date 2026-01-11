@@ -7,7 +7,7 @@ layout: default
 ## 0 — What This Does
 Creates a local Git repository, links it to GitHub, publishes it as a static website using GitHub Pages, and exposes the site URL in the repository info.
 
----
+------
 
 ## 1 — Tools You Must Have
 

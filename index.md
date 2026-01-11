@@ -7,6 +7,6 @@ These are the instructions for setting up your own Pages site on github and mana
 
 [Windows instructions](setup_local_repo_windows.md)
 
-[Mac instructions](setup_local_repo_.md)
+[Mac instructions](setup_local_repo_mac.md)
 
 
