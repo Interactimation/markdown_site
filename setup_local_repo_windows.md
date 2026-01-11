@@ -93,7 +93,7 @@ GitHub Pages requires an entry file.
   <meta charset="utf-8">
   <title>My Site</title>
 </head>
-<body>
+<body style="padding: 20px;">
   <h1>Hello, world</h1>
 </body>
 </html>
