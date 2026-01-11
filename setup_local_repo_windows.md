@@ -1,4 +1,5 @@
 ---
+layout: default
 ---
 
 # Local Git Repository → GitHub → GitHub Pages Static Site (Windows)
