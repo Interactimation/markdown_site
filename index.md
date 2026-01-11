@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
-# Hello World!
 
+# Hello World!
 
 These are the instructions for setting up your own Pages site on GitHub and managing it from VS Code
 
