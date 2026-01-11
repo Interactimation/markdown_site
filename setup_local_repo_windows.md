@@ -203,7 +203,7 @@ This command never changes files and explains Git’s current state.
 
 ## 14 — Making Changes
 
-In VS Code, change the text in the index.html page between the <h1> tags to add an exclamation point.
+In VS Code, change the text in the index.html page between the `<h1>` tags to add an exclamation point.
 
 The Source Control icon should show a number, click it. 
 
