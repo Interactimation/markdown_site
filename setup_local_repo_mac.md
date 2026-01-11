@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 # Local Git Repository → GitHub → GitHub Pages Static Site (macOS)
 
 ## 0 — What This Does
