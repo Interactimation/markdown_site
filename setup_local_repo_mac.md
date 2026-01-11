@@ -24,7 +24,7 @@ Creates a local Git repository, links it to GitHub, publishes it as a static web
 3. GitHub account  
    https://github.com
 
----
+------
 
 ## 2 — GitHub Authentication
 GitHub does not accept passwords for Git operations.
@@ -42,7 +42,7 @@ When Git asks for a password, paste the token.
 
 > NOTE: You may _not_ be prompted if Git already has your credentials saved. This is normal. This step is something for first time users and it won't hurt to know how to generate a token!
 
----
+------
 
 ## 3 — Create the GitHub Repository
 
@@ -56,7 +56,7 @@ When Git asks for a password, paste the token.
 5. Click Create repository
 6. Copy the HTTPS repository URL (ends in .git)
 
----
+------
 
 ## 4 — Create Local Project Folder and Open in VS Code
 
@@ -66,7 +66,7 @@ When Git asks for a password, paste the token.
 4. Select the folder
 5. View → Terminal
 
----
+------
 
 ## 5 — Initialize Git and Connect to GitHub
 
@@ -78,7 +78,7 @@ git remote -v
 
 > Confirm that both fetch and push URLs appear (if you see an error here and don’t know why, the simplest fix is to delete the local folder and repeat steps 4–7. The GitHub repo does not need to be recreated.)
 
----
+------
 
 ## 6 — Create a Basic Static Site
 
@@ -102,7 +102,7 @@ GitHub Pages requires an entry file.
 
 3. Save the file.
 
----
+------
 
 ## 7 — First Commit and Push (Using VS Code Source Control)
 
@@ -128,7 +128,7 @@ If **Publish Branch** does not appear:
 1. Press **Cmd+Shift+P**
 2. Run: **Git: Publish Branch**
 
----
+------
 
 ## 8 — Enable GitHub Pages
 
@@ -143,7 +143,7 @@ If **Publish Branch** does not appear:
 
 When the Save button is no longer clickable, look to the left column for Pages and click that. Copy the URL of your live site. The Pages site will not appear until at least one successful push to main exists.
 
----
+------
 
 ## 9 — Add the Pages URL to Repository Info
 
@@ -156,7 +156,7 @@ When the Save button is no longer clickable, look to the left column for Pages a
 
 This makes the site link visible on the repository page.
 
----
+------
 
 ## 10 — Verify the Site
 
@@ -166,7 +166,7 @@ This makes the site link visible on the repository page.
    - Wait 2 minutes
    - Hard refresh (Cmd+Shift+R)
 
----
+------
 
 ## 11 — Ongoing Workflow
 
@@ -181,7 +181,7 @@ To publish updates:
 
 Updates will appear on the site after a short delay.
 
----
+------
 
 ## 12 — Pull Remote Updates (for collaborating with others or if you sync changes from different computers, etc.)
 
@@ -191,7 +191,7 @@ Either:
 
 git pull
 
----
+------
 
 ## 13 — Safe Diagnostic Command
 
@@ -201,7 +201,7 @@ git status
 
 This command never changes files and explains Git’s current state.
 
----
+------
 
 ## 14 — Making Changes
 
