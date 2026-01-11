@@ -1,6 +1,5 @@
 ---
 layout: default
-permalink: /setup_local_repo_mac.html
 ---
 
 # Local Git Repository → GitHub → GitHub Pages Static Site (macOS)
