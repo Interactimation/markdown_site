@@ -3,7 +3,7 @@ layout: default
 ---
 # Hello World!
 
-These are the instructions for setting up your own Pages site on github and managing it from VS Code
+These are the instructions for setting up your own Pages site on GitHub and managing it from VS Code
 
 [Windows instructions](setup_local_repo_windows.md)
 
