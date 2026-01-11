@@ -217,5 +217,4 @@ If you check your repository, the index.html page should show your changes, they
 
 Next we will add an extension called "Live Server" so that we don't have to wait for the site to update to see our changes. Well also add extensions to help us with spell checking, HTML coding and Markdown _but this is a good stopping point!  
 
-
 [Return home](index.html)
