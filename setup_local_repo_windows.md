@@ -71,7 +71,7 @@ When Git asks for a password, paste the token.
 In the terminal, enter:
 
 git init  
-git remote add origin <paste-repo-URL>  
+git remote add origin `paste-repo-URL`  
 git remote -v
 
 > Confirm that both fetch and push URLs appear (if you see an error here and don’t know why, the simplest fix is to delete the local folder and repeat steps 4–7. The GitHub repo does not need to be recreated.)
@@ -87,6 +87,7 @@ GitHub Pages requires an entry file.
 
 2. Add minimal content:
 
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -97,6 +98,7 @@ GitHub Pages requires an entry file.
   <h1>Hello, world</h1>
 </body>
 </html>
+```
 
 3. Save the file.
 
