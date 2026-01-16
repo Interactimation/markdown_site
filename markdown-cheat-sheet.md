@@ -223,13 +223,6 @@ X^2^
 
 X^2^
 
-### Heading ID
-
-```
-### My Great Heading {#custom-id}
-
-[Return home](index.html)
-```
-
 [Link to "My Great Heading" Above](#custom-id)
 
+[Go back to main page](index.md)
