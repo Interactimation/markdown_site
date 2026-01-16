@@ -1,5 +1,7 @@
 # Markdown Cheat Sheet
 
+##### [Back to main page](index.md)
+
 This Markdown cheat sheet provides a quick overview of all the Markdown syntax elements. GitHub has its own _flavor_ of Markdown, which [you can explore here](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 ## Basic Syntax
@@ -225,4 +227,4 @@ X^2^
 
 [Link to "My Great Heading" Above](#custom-id)
 
-[Go back to main page](index.md)
+
