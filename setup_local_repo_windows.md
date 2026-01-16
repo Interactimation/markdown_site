@@ -71,7 +71,7 @@ When Git asks for a password, paste the token.
 In the terminal, enter:
 
 git init  
-git remote add origin <paste-repo-URL>  
+git remote add origin `paste-repo-URL`  
 git remote -v
 
 > Confirm that both fetch and push URLs appear (if you see an error here and don’t know why, the simplest fix is to delete the local folder and repeat steps 4–7. The GitHub repo does not need to be recreated.)
@@ -87,6 +87,7 @@ GitHub Pages requires an entry file.
 
 2. Add minimal content:
 
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -97,6 +98,7 @@ GitHub Pages requires an entry file.
   <h1>Hello, world</h1>
 </body>
 </html>
+```
 
 3. Save the file.
 
@@ -203,7 +205,7 @@ This command never changes files and explains Git’s current state.
 
 ## 14 — Making Changes
 
-In VS Code, change the text in the index.html page between the <h1> tags to add an exclamation point.
+In VS Code, change the text in the index.html page between the `<h1>` tags to add an exclamation point.
 
 The Source Control icon should show a number, click it. 
 
@@ -216,6 +218,5 @@ Click Commit, then Sync Changes.
 If you check your repository, the index.html page should show your changes, they will take time to appear on your website, however. 
 
 Next we will add an extension called "Live Server" so that we don't have to wait for the site to update to see our changes. Well also add extensions to help us with spell checking, HTML coding and Markdown _but this is a good stopping point!  
-
 
 [Return home](index.html)
