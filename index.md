@@ -2,7 +2,10 @@
 layout: default
 ---
 
-# Hello World!
+# Markdown Site
+
+Your Teacher!
+<img src="pix/physicist-ludwig-boltzmann.jpg" alt="Boltzmann" width="100">
 
 These are the instructions for setting up your own Pages site on GitHub and managing it from VS Code
 
@@ -14,8 +17,9 @@ You'll also want to learn Markdown, so you can host an entire site without HTML 
 
 [Markdown Cheat Sheet](markdown-cheat-sheet.md)
 
-Your Teacher!
-![teacher photo](pix/physicist-ludwig-boltzmann.jpg)
+
+
+
 
 
 
