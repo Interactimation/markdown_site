@@ -141,7 +141,7 @@ If **Publish Branch** does not appear:
    - Folder: / (root)
 5. Click Save
 
-When the Save button is no longer clickable, look to the left column for Pages and click that. Copy the URL of your live site. The Pages site will not appear until at least one successful push to main exists.
+When the Save button is no longer clickable, look to the left column for Pages and click that. What we're looking for is the url of your site and in may take a few minutes to generate, so you'll need to refresh tha page a couple times till it appears. Copy the URL of your live site. The Pages site will not appear until at least one successful push to main exists.
 
 ------
 

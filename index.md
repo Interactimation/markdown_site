@@ -14,6 +14,9 @@ You'll also want to learn Markdown, so you can host an entire site without HTML 
 
 [Markdown Cheat Sheet](markdown-cheat-sheet.md)
 
+Your Teacher!
+![teacher photo](pix/physicist-ludwig-boltzmann.jpg)
+
 
 
 
