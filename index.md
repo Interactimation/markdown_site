@@ -17,6 +17,13 @@ You'll also want to learn Markdown, so you can host an entire site without HTML 
 
 [Markdown Cheat Sheet](markdown-cheat-sheet.md)
 
+## Section One: Beg, Borrow, Steal 
+[Where do Ideas Come From?](ideas.md)
+
+## Section Two: Genre Drill-down — Cyberpunk
+
+[It begins with Noir](noir.md)
+
 
 
 
