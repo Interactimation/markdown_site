@@ -1,0 +1,4 @@
+/* hide auto-injected site title link */
+.markdown-body > h1 > a[href*="github.io/portfolio"] {
+  display: none;
+}

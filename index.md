@@ -2,6 +2,8 @@
 layout: default
 ---
 
+<link rel="stylesheet" href="{{ "/stylesheet.css" | relative_url }}">
+
 # Markdown Site
 
 Your Teacher!
