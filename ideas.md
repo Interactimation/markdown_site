@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Where do Ideas Come From?
 
 * They already exist all around us

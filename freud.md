@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Example FREUD: 
 
 Sigmund Freud as an archetype might represent a Wise Old Man, or Wise Fool
