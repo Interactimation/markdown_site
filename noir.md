@@ -2,7 +2,6 @@
 layout: default
 ---
 
-
 # NOIR
 
 "Noir" is French for "Black" and in noir _films_ —at least the old ones— [huge swaths of darkness, eerie or symbolic shadows, bands and blobs of light and darkness are part of the visual language](https://deadline.com/gallery/the-faces-of-noir-studio-portraits/fnp-maltese-falcon-bogart/).
