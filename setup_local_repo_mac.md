@@ -61,7 +61,7 @@ When Git asks for a password, paste the token.
 
 ## 4 — Create Local Project Folder and Open in VS Code
 
-1. Create or choose a folder on your computer
+1. Create a folder on your computer
 2. Open Visual Studio Code
 3. File → Open Folder
 4. Select the folder
